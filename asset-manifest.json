@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b816ea2.css",
-    "main.js": "/static/js/main.52b184d1.js",
+    "main.css": "/static/css/main.7f755176.css",
+    "main.js": "/static/js/main.2f0f6d06.js",
     "static/js/592.50a68177.chunk.js": "/static/js/592.50a68177.chunk.js",
     "static/media/aspnetcore_logo.png": "/static/media/aspnetcore_logo.fc31af65370a2749fa66.png",
     "static/media/react_logo.png": "/static/media/react_logo.efd5ba0120d716da82aa.png",
     "static/media/android_logo.png": "/static/media/android_logo.d434344d3b4c00af7546.png",
     "index.html": "/index.html",
-    "main.7b816ea2.css.map": "/static/css/main.7b816ea2.css.map",
-    "main.52b184d1.js.map": "/static/js/main.52b184d1.js.map",
+    "main.7f755176.css.map": "/static/css/main.7f755176.css.map",
+    "main.2f0f6d06.js.map": "/static/js/main.2f0f6d06.js.map",
     "592.50a68177.chunk.js.map": "/static/js/592.50a68177.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b816ea2.css",
-    "static/js/main.52b184d1.js"
+    "static/css/main.7f755176.css",
+    "static/js/main.2f0f6d06.js"
   ]
 }
